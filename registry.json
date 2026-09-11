@@ -97,6 +97,21 @@
         "Scheduler",
         "Codex"
       ]
+    },
+    {
+      "id": "cliproxyapi-kiro-plugin",
+      "name": "Kiro Plugin",
+      "description": "Kiro Plugin",
+      "author": "quyendang",
+      "repository": "https://github.com/quyendang/cliproxyapi-kiro-plugin",
+      "homepage": "https://github.com/quyendang/cliproxyapi-kiro-plugin",
+      "license": "MIT",
+      "tags": [
+        "Scheduler",
+        "Codex",
+        "Provider",
+        "Claude"
+      ]
     }
   ]
 }
